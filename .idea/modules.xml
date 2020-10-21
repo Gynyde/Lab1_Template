@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/PA2020_Lab1.iml" filepath="$PROJECT_DIR$/PA2020_Lab1.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/lab01.iml" filepath="$PROJECT_DIR$/lab01.iml" />
+>>>>>>> e7ea9a1... initial commit.
     </modules>
   </component>
 </project>
